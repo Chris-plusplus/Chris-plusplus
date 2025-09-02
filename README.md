@@ -8,6 +8,7 @@ I am part of [AGH Code Industry](https://coin.agh.edu.pl/) student organization.
 Advanced:<br><br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width=100px/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg" width=100px/>
+<img src="https://raw.githubusercontent.com/conan-io/conan-io.github.io/5cadb354b06dc06755582f772ec05e20e55fac36/assets/conan.png" width=100px/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width=100px/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width=100px/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width=100px/>
