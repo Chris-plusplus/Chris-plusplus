@@ -1,6 +1,6 @@
 ## Welcome to my profile
 
-I'm 3rd year CS student at AGH Univeristy of Krakow. 
+I'm 4th year CS student at AGH Univeristy of Krakow. 
 <br>
 I am part of [AGH Code Industry](https://coin.agh.edu.pl/) student organization. Currently leader of [Archimedes](https://coin.agh.edu.pl/projekty/archimedes) project, where we're bulding our own [game engine](https://github.com/AGH-Code-Industry/archimedes) from scratch in C++. 
 <br>
